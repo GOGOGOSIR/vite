@@ -1,3 +1,9 @@
+## 3.2.0-beta.2 (2023-03-15)
+
+* fix(ssr): handle parallel hookNodeResolve (#10401) ([1a961d9](https://github.com/vitejs/vite/commit/1a961d9)), closes [#10401](https://github.com/vitejs/vite/issues/10401)
+
+
+
 ## 3.2.0-beta.1 (2022-10-10)
 
 * chore: update magic-string (#10364) ([23c9259](https://github.com/vitejs/vite/commit/23c9259)), closes [#10364](https://github.com/vitejs/vite/issues/10364)
